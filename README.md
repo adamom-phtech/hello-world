@@ -1,6 +1,6 @@
 # hello-world
 
-this is my addition to this test file.
+THIS IS MY ADDITION TO THE FILE.
 
 
 deleted that other row and added this one
