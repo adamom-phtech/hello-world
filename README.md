@@ -7,7 +7,4 @@ deleted that other row and added this one
 
 add new row
 
-we can delete this next
-
-
 then a new row
